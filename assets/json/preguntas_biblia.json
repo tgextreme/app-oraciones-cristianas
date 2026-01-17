@@ -1,0 +1,514 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuántos libros tiene la Biblia en total?",
+      "opciones": [
+        "66",
+        "73",
+        "76",
+        "80"
+      ],
+      "respuesta_correcta": 0
+    },
+    {
+      "pregunta": "¿Quién escribió el primer libro de la Biblia?",
+      "opciones": [
+        "David",
+        "Moisés",
+        "Abraham",
+        "Adán"
+      ],
+      "respuesta_correcta": 1
+    },
+    {
+      "pregunta": "¿En qué ciudad nació Jesús?",
+      "opciones": [
+        "Nazaret",
+        "Jerusalén",
+        "Belén",
+        "Capernaúm"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "pregunta": "¿Cuántos discípulos eligió Jesús?",
+      "opciones": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "pregunta": "¿Quién negó a Jesús tres veces?",
+      "opciones": [
+        "Juan",
+        "Pedro",
+        "Tomás",
+        "Judas"
+      ],
+      "respuesta_correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál fue el primer milagro de Jesús?",
+      "opciones": [
+        "Sanar a un ciego",
+        "Convertir agua en vino",
+        "Multiplicar panes",
+        "Caminar sobre el agua"
+      ],
+      "respuesta_correcta": 1
+    },
+    {
+      "pregunta": "¿Quién traicionó a Jesús?",
+      "opciones": [
+        "Pedro",
+        "Juan",
+        "Judas Iscariote",
+        "Tomás"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "pregunta": "¿Cuántos días estuvo Jonás en el vientre del gran pez?",
+      "opciones": [
+        "1 día",
+        "2 días",
+        "3 días",
+        "7 días"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "pregunta": "¿Quién fue el rey más sabio de Israel?",
+      "opciones": [
+        "David",
+        "Salomón",
+        "Saúl",
+        "Ezequías"
+      ],
+      "respuesta_correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el versículo más conocido de la Biblia?",
+      "opciones": [
+        "Salmo 23, 1",
+        "Juan 3, 16",
+        "Génesis 1, 1",
+        "Mateo 5, 3"
+      ],
+      "respuesta_correcta": 1
+    },
+    {
+      "pregunta": "¿Quién construyó el arca durante el diluvio?",
+      "opciones": [
+        "Moisés",
+        "Abraham",
+        "Noé",
+        "Jacob"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "pregunta": "¿En qué monte recibió Moisés los Diez Mandamientos?",
+      "opciones": [
+        "Monte Carmelo",
+        "Monte Sinaí",
+        "Monte de los Olivos",
+        "Monte Hermón"
+      ],
+      "respuesta_correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál fue la plaga final sobre Egipto?",
+      "opciones": [
+        "Ranas",
+        "Langostas",
+        "Muerte de primogénitos",
+        "Tinieblas"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "pregunta": "¿Quién fue el primer rey de Israel?",
+      "opciones": [
+        "David",
+        "Salomón",
+        "Saúl",
+        "Samuel"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "pregunta": "¿Con qué arma mató David a Goliat?",
+      "opciones": [
+        "Espada",
+        "Honda",
+        "Lanza",
+        "Arco"
+      ],
+      "respuesta_correcta": 1
+    },
+    {
+      "pregunta": "¿Cuántos años vagaron los israelitas por el desierto?",
+      "opciones": [
+        "20 años",
+        "30 años",
+        "40 años",
+        "50 años"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "pregunta": "¿Quién fue lanzado al foso de los leones?",
+      "opciones": [
+        "Daniel",
+        "David",
+        "José",
+        "Elías"
+      ],
+      "respuesta_correcta": 0
+    },
+    {
+      "pregunta": "¿Cómo se llama la madre de Jesús?",
+      "opciones": [
+        "María",
+        "Marta",
+        "Magdalena",
+        "Elisabeth"
+      ],
+      "respuesta_correcta": 0
+    },
+    {
+      "pregunta": "¿Quién bautizó a Jesús?",
+      "opciones": [
+        "Pedro",
+        "Juan el Bautista",
+        "Andrés",
+        "Felipe"
+      ],
+      "respuesta_correcta": 1
+    },
+    {
+      "pregunta": "¿En qué día de la semana resucitó Jesús?",
+      "opciones": [
+        "Sábado",
+        "Domingo",
+        "Lunes",
+        "Viernes"
+      ],
+      "respuesta_correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el último libro de la Biblia?",
+      "opciones": [
+        "Judas",
+        "Apocalipsis",
+        "3 Juan",
+        "Malaquías"
+      ],
+      "respuesta_correcta": 1
+    },
+    {
+      "pregunta": "¿Quién escribió la mayoría de los Salmos?",
+      "opciones": [
+        "Salomón",
+        "Moisés",
+        "David",
+        "Asaf"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "pregunta": "¿Cuántos frutos del Espíritu menciona Pablo en Gálatas?",
+      "opciones": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "pregunta": "¿Quién fue vendido como esclavo por sus hermanos?",
+      "opciones": [
+        "Jacob",
+        "José",
+        "Benjamín",
+        "Judá"
+      ],
+      "respuesta_correcta": 1
+    },
+    {
+      "pregunta": "¿Cuántas veces perdonó Pedro a Jesús después de negarlo?",
+      "opciones": [
+        "Una vez",
+        "Dos veces",
+        "Tres veces",
+        "Siete veces"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "pregunta": "¿Qué pidió Salomón a Dios cuando fue hecho rey?",
+      "opciones": [
+        "Riquezas",
+        "Poder",
+        "Sabiduría",
+        "Larga vida"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál fue el nombre original de Pablo?",
+      "opciones": [
+        "Simón",
+        "Saulo",
+        "Santiago",
+        "Silvano"
+      ],
+      "respuesta_correcta": 1
+    },
+    {
+      "pregunta": "¿En qué río fue bautizado Jesús?",
+      "opciones": [
+        "Río Nilo",
+        "Río Éufrates",
+        "Río Jordán",
+        "Mar de Galilea"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "pregunta": "¿Cuántos días ayunó Jesús en el desierto?",
+      "opciones": [
+        "30 días",
+        "40 días",
+        "50 días",
+        "60 días"
+      ],
+      "respuesta_correcta": 1
+    },
+    {
+      "pregunta": "¿Quién reemplazó a Judas Iscariote como apóstol?",
+      "opciones": [
+        "Pablo",
+        "Bernabé",
+        "Matías",
+        "Marcos"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "pregunta": "¿Cuántas cartas escribió el apóstol Pablo?",
+      "opciones": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "respuesta_correcta": 1
+    },
+    {
+      "pregunta": "¿Qué significa 'Emanuel'?",
+      "opciones": [
+        "Rey de reyes",
+        "Príncipe de paz",
+        "Dios con nosotros",
+        "Cordero de Dios"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál fue la profesión de Pedro antes de seguir a Jesús?",
+      "opciones": [
+        "Carpintero",
+        "Pescador",
+        "Pastor",
+        "Agricultor"
+      ],
+      "respuesta_correcta": 1
+    },
+    {
+      "pregunta": "¿Quién fue el sucesor de Moisés?",
+      "opciones": [
+        "Aarón",
+        "Caleb",
+        "Josué",
+        "Eleazar"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "pregunta": "¿En qué ciudad predicó principalmente el apóstol Pablo?",
+      "opciones": [
+        "Jerusalén",
+        "Antioquía",
+        "Roma",
+        "Éfeso"
+      ],
+      "respuesta_correcta": 3
+    },
+    {
+      "pregunta": "¿Cuántos peces y panes usó Jesús para alimentar a los 5000?",
+      "opciones": [
+        "3 panes y 2 peces",
+        "5 panes y 2 peces",
+        "7 panes y 3 peces",
+        "12 panes y 5 peces"
+      ],
+      "respuesta_correcta": 1
+    },
+    {
+      "pregunta": "¿Quién interpretó los sueños del Faraón?",
+      "opciones": [
+        "Moisés",
+        "José",
+        "Daniel",
+        "Ezequiel"
+      ],
+      "respuesta_correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el mandamiento más importante según Jesús?",
+      "opciones": [
+        "No matarás",
+        "Amar a Dios y al prójimo",
+        "Honra a tu padre y madre",
+        "No tendrás otros dioses"
+      ],
+      "respuesta_correcta": 1
+    },
+    {
+      "pregunta": "¿Quién fue la primera mujer mencionada en la Biblia?",
+      "opciones": [
+        "Sara",
+        "Eva",
+        "Rebeca",
+        "Raquel"
+      ],
+      "respuesta_correcta": 1
+    },
+    {
+      "pregunta": "¿Cuántos años vivió Matusalén?",
+      "opciones": [
+        "365 años",
+        "777 años",
+        "969 años",
+        "1000 años"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "pregunta": "¿Qué profeta fue llevado al cielo en un carro de fuego?",
+      "opciones": [
+        "Eliseo",
+        "Elías",
+        "Ezequiel",
+        "Enoc"
+      ],
+      "respuesta_correcta": 1
+    },
+    {
+      "pregunta": "¿Cuántos miembros tenía la familia de Noé en el arca?",
+      "opciones": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "pregunta": "¿Quién fue el gigante filisteo que desafió al ejército israelita?",
+      "opciones": [
+        "Og",
+        "Goliat",
+        "Samsón",
+        "Absalón"
+      ],
+      "respuesta_correcta": 1
+    },
+    {
+      "pregunta": "¿En qué idioma fue escrito principalmente el Nuevo Testamento?",
+      "opciones": [
+        "Hebreo",
+        "Arameo",
+        "Griego",
+        "Latín"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál fue el primer milagro registrado de Eliseo?",
+      "opciones": [
+        "Dividir las aguas",
+        "Multiplicar aceite",
+        "Resucitar un muerto",
+        "Sanar leprosos"
+      ],
+      "respuesta_correcta": 0
+    },
+    {
+      "pregunta": "¿Qué reina visitó al rey Salomón?",
+      "opciones": [
+        "Reina de Egipto",
+        "Reina de Sabá",
+        "Reina de Persia",
+        "Reina de Babilonia"
+      ],
+      "respuesta_correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es la oración que Jesús enseñó a sus discípulos?",
+      "opciones": [
+        "Ave María",
+        "Padre Nuestro",
+        "Gloria",
+        "Credo"
+      ],
+      "respuesta_correcta": 1
+    },
+    {
+      "pregunta": "¿Quién fue el profeta que desafió a los profetas de Baal en el Monte Carmelo?",
+      "opciones": [
+        "Eliseo",
+        "Elías",
+        "Jeremías",
+        "Ezequiel"
+      ],
+      "respuesta_correcta": 1
+    },
+    {
+      "pregunta": "¿Cuántas vírgenes había en la parábola de las lámparas?",
+      "opciones": [
+        "5",
+        "8",
+        "10",
+        "12"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "pregunta": "¿Quién fue el primer mártir cristiano?",
+      "opciones": [
+        "Santiago",
+        "Esteban",
+        "Pedro",
+        "Pablo"
+      ],
+      "respuesta_correcta": 1
+    },
+    {
+      "pregunta": "¿Cuántos hermanos tenía José, el hijo de Jacob?",
+      "opciones": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "respuesta_correcta": 1
+    }
+  ]
+}
