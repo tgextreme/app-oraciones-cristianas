@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'rosario_menu_screen.dart';
+import 'rosario_fatima_screen.dart';
 import 'frases_biblia_screen.dart';
 import 'test_menu_screen.dart';
 import 'acerca_de_screen.dart';
@@ -87,6 +88,19 @@ class HomeScreen extends StatelessWidget {
                         ),
                         const SizedBox(height: 20),
 
+                        // Botón Rosario a Fátima
+                        _buildMenuButton(
+                          context,
+                          'Rosario a Fátima',
+                          () => Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                              builder: (context) => const RosarioFatimaScreen(),
+                            ),
+                          ),
+                        ),
+                        const SizedBox(height: 20),
+
                         // Botón Frases Biblia
                         _buildMenuButton(
                           context,
@@ -101,7 +115,7 @@ class HomeScreen extends StatelessWidget {
                         const SizedBox(height: 20),
 
                         // Botón Accesibilidad
-                        _buildMenuButton(
+                        _buildMenuButtonAccesibilidad(
                           context,
                           'Accesibilidad',
                           () => Navigator.push(
@@ -157,6 +171,38 @@ class HomeScreen extends StatelessWidget {
           shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
         ),
         child: Text(text),
+      ),
+    );
+  }
+
+  Widget _buildMenuButtonAccesibilidad(
+    BuildContext context,
+    String text,
+    VoidCallback onPressed,
+  ) {
+    final fontProvider = Provider.of<FontSizeProvider>(context);
+    return SizedBox(
+      width: double.infinity,
+      height: 100,
+      child: ElevatedButton(
+        onPressed: onPressed,
+        style: ElevatedButton.styleFrom(
+          backgroundColor: Colors.orange[600],
+          foregroundColor: Colors.white,
+          textStyle: TextStyle(
+            fontSize: fontProvider.scale(24),
+            fontWeight: FontWeight.bold,
+          ),
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
+        ),
+        child: Row(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            const Icon(Icons.accessibility_new, size: 30),
+            const SizedBox(width: 10),
+            Text(text),
+          ],
+        ),
       ),
     );
   }
